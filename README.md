@@ -1,4 +1,5 @@
 #CSS pseudo-class exercise
+_complete 2016.10.13_
 
 > For this exercise you can't add any classes or ids
 
